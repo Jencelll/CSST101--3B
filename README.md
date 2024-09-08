@@ -1,5 +1,8 @@
 # Machine Problem No. 1: Exploring the Role of Knowledge Representation in AI
 
+[3.pptx](https://github.com/user-attachments/files/16921868/3.pptx)
+
+
 # 1. Research and Comprehend
 1.1 Introduction to AI
 - What is AI? AI (Artificial Intelligence) refers to the ability of machines to mimic human intelligence. This involves reasoning, learning, perception, language understanding, and problem-solving.
@@ -39,7 +42,7 @@
   Create a visual showing how the vehicle identifies objects and determines how to respond (e.g., slow down for pedestrians, stop at red lights).
   Explanation:
   The AI system uses this representation to detect obstacles in real-time, assess the level of risk, and make a decision (e.g., slow down or change lanes).
-https://github.com/user-attachments/assets/13ce1ea9-b5a3-45a3-9ce8-841580b1615b
+
 
 
 
