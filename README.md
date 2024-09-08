@@ -1,6 +1,6 @@
 # Machine Problem No. 1: Exploring the Role of Knowledge Representation in AI
 
-1. Research and Comprehend
+# 1. Research and Comprehend
 1.1 Introduction to AI
 - What is AI? AI (Artificial Intelligence) refers to the ability of machines to mimic human intelligence. This involves reasoning, learning, perception, language understanding, and problem-solving.
 
@@ -11,9 +11,9 @@
 1.2 Overview of Knowledge Representation (KR)
 - What is Knowledge Representation? In AI, knowledge representation refers to the methods and structures used to represent information about the world. The goal is to model knowledge in a way that an AI system can process and use to reason and make decisions.
 
-Forms of Knowledge Representation:
+# Forms of Knowledge Representation:
 
-- Semantic Networks:
+# - Semantic Networks:
   A semantic network represents knowledge as a graph of nodes (concepts) and edges (relationships).
   Example: In a medical diagnosis system, diseases and symptoms could be nodes, and the relationships between them (e.g., "causes," "is a symptom of") would be the edges.
 - Frames:
@@ -24,13 +24,13 @@ Forms of Knowledge Representation:
   Example: A recommendation system may use logic to infer what products a user would like based on previous choices.
   How KR Enables AI: Knowledge representation allows AI systems to process complex information, reason about it, and make decisions based on the rules or structures encoded in the model.
 
-  2. Hands-On Exploration
+ # 2. Hands-On Exploration
   2.1 Case Study Selection
 - AI Application: Autonomous Vehicles
   Autonomous vehicles use knowledge representation to navigate, avoid obstacles, and interact with the environment.
 - Knowledge Representation in Autonomous Vehicles:
   The system represents knowledge through a combination of frames (for objects like pedestrians or traffic signs), semantic networks (for road maps and traffic rules), and probabilistic models (to predict movements).
-2.2 Representation Creation
+# 2.2 Representation Creation
 - Problem: Obstacle Detection and Avoidance in Autonomous Vehicles
 - Representation Model:
   A frame for representing different types of obstacles (e.g., cars, pedestrians, cyclists) with slots for size, speed, distance, and direction.
