@@ -2,11 +2,11 @@
 
 1. Research and Comprehend
 1.1 Introduction to AI
-What is AI? AI (Artificial Intelligence) refers to the ability of machines to mimic human intelligence. This involves reasoning, learning, perception, language understanding, and problem-solving.
+- What is AI? AI (Artificial Intelligence) refers to the ability of machines to mimic human intelligence. This involves reasoning, learning, perception, language understanding, and problem-solving.
 
-How AI Systems Work: AI systems rely on data, algorithms, and computational power. They use models (such as machine learning models) to process data, learn patterns, and make decisions or predictions.
+- How AI Systems Work: AI systems rely on data, algorithms, and computational power. They use models (such as machine learning models) to process data, learn patterns, and make decisions or predictions.
 
-Role of Knowledge in AI: Knowledge is crucial for AI because it allows systems to "understand" the world. Without structured knowledge, AI would struggle to reason, make decisions, or learn from experience.
+- Role of Knowledge in AI: Knowledge is crucial for AI because it allows systems to "understand" the world. Without structured knowledge, AI would struggle to reason, make decisions, or learn from experience.
 
 1.2 Overview of Knowledge Representation (KR)
 What is Knowledge Representation? In AI, knowledge representation refers to the methods and structures used to represent information about the world. The goal is to model knowledge in a way that an AI system can process and use to reason and make decisions.
