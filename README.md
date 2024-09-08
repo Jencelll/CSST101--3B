@@ -39,6 +39,7 @@
   Create a visual showing how the vehicle identifies objects and determines how to respond (e.g., slow down for pedestrians, stop at red lights).
   Explanation:
   The AI system uses this representation to detect obstacles in real-time, assess the level of risk, and make a decision (e.g., slow down or change lanes).
+https://github.com/user-attachments/assets/13ce1ea9-b5a3-45a3-9ce8-841580b1615b
 
 
 
