@@ -40,8 +40,8 @@
   Explanation:
   The AI system uses this representation to detect obstacles in real-time, assess the level of risk, and make a decision (e.g., slow down or change lanes).
 
-https://github.com/user-attachments/assets/000574af-7665-445b-904f-a0d36d8fa93f
-(https://github.com/user-attachments/assets/cce72806-3e19-4ce2-ba25-cd1d23c0a967)
+https://github.com/user-attachments/assets/e35727e4-7341-4392-8089-bcecc985941c
+
 
 
 
