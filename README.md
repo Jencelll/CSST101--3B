@@ -23,4 +23,20 @@ Forms of Knowledge Representation:
   Uses formal logic (e.g., propositional or first-order logic) to represent facts and rules.
   Example: A recommendation system may use logic to infer what products a user would like based on previous choices.
   How KR Enables AI: Knowledge representation allows AI systems to process complex information, reason about it, and make decisions based on the rules or structures encoded in the model.
-  
+
+  2. Hands-On Exploration
+  2.1 Case Study Selection
+- AI Application: Autonomous Vehicles
+  Autonomous vehicles use knowledge representation to navigate, avoid obstacles, and interact with the environment.
+- Knowledge Representation in Autonomous Vehicles:
+  The system represents knowledge through a combination of frames (for objects like pedestrians or traffic signs), semantic networks (for road maps and traffic rules), and probabilistic models (to predict movements).
+2.2 Representation Creation
+- Problem: Obstacle Detection and Avoidance in Autonomous Vehicles
+- Representation Model:
+  A frame for representing different types of obstacles (e.g., cars, pedestrians, cyclists) with slots for size, speed, distance, and direction.
+  A semantic network connecting roads, intersections, and traffic signals, showing how they relate to the vehicle’s movement.
+- Diagram:
+  Create a visual showing how the vehicle identifies objects and determines how to respond (e.g., slow down for pedestrians, stop at red lights).
+  Explanation:
+  The AI system uses this representation to detect obstacles in real-time, assess the level of risk, and make a decision (e.g., slow down or change lanes).
+    
